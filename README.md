@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Noblerworks/Noblerworks/main/banner.svg" alt="Nobler Works" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Noblerworks/Noblerworks/main/banner.png" alt="Nobler Works" width="600"/>
 </p>
-
-# Nobler Works
 
 Building open-source intelligence and security tools.
 
